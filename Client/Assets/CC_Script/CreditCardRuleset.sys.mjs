@@ -78,6 +78,7 @@ var FathomHeuristicsRegExp = {
       "cc-name":
         // Firefox-specific rules
         "account.*holder.*name" +
+        "|^(credit[-\\s]?card|card).*name" +
         // de-DE
         "|^(kredit)?(karten|konto)inhaber" +
         "|^(name).*karte" +
@@ -1206,7 +1207,9 @@ export var CreditCardRulesets = {
     );
 
     for (const type of this.types) {
-      this[type] = makeRuleset([...coefficients[type]], biases);
+      if (type) {
+        this[type] = makeRuleset([...coefficients[type]], biases);
+      }
     }
   },
 
