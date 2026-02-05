@@ -56,10 +56,10 @@
 "MainMenu.BookmarkPage.Title.v141" = "Aggiungi pagina ai segnalibri";
 
 /* On the main menu, a title for a label that indicate the Desktop Site option from menu, is OFF. */
-"MainMenu.DesktopSiteOff.Title.v142" = "Disattivata";
+"MainMenu.DesktopSiteOff.Title.v142" = "Disattivato";
 
 /* On the main menu, a title for a label that indicate the Desktop Site option from menu, is ON. */
-"MainMenu.DesktopSiteOn.Title.v142" = "Attiva";
+"MainMenu.DesktopSiteOn.Title.v142" = "Attivo";
 
 /* On the main menu, at the top, subtitle for the banner which suggest user can set Firefox as default browser. */
 "MainMenu.HeaderBanner.Subtitle.v142" = "Bastano pochi secondi. Cambia in qualsiasi momento.";
@@ -329,7 +329,7 @@
 "MainMenu.TabsSection.NewTab.Title.v131" = "Nuova scheda";
 
 /* On the main menu, the accessibility label hint for the action that will show more menu options in the current section of the menu. */
-"MainMenu.ToolsSection.AccessibilityLabels.CollapsedHint.v142" = "Raggruppato";
+"MainMenu.ToolsSection.AccessibilityLabels.CollapsedHint.v142" = "Compresso";
 
 /* On the main menu, the accessibility label for the action that will switch a site user agent value, if available. */
 "MainMenu.ToolsSection.AccessibilityLabels.DesktopSite.Title.v141" = "Sito desktop";
