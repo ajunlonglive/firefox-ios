@@ -1,0 +1,9 @@
+/* The label for the allow button on the Terms of Service alert. */
+"Summarizer.ToS.Alert.AllowButton.Label.v142" = "Permitir";
+
+/* The label for the cancel button on the Terms of Service alert for the summarizer. */
+"Summarizer.ToS.Alert.CancelButton.Label.v142" = "Cancelar";
+
+/* The label for the learn more link button on the Terms of Service alert for the summarizer. */
+"Summarizer.ToS.Alert.LearnMoreButton.Label.v142" = "Más información";
+
