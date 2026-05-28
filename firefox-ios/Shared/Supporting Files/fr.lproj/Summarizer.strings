@@ -19,6 +19,9 @@
 /* The error message displayed when the summarizer encounters unsupported content while summarizing a page (e.g unsupported language, content too long). */
 "Summarizer.Error.UnsupportedContent.Message.v142" = "Ce site web ne permet pas de résumer son contenu. Essayez avec une autre page.";
 
+/* The description is displayed at the end of the summary report as a footnote to the users in that the report can contain errors. */
+"Summarizer.Footnote.Label.v144" = "Remarque : le résumé peut contenir des erreurs.";
+
 /* The label displayed in the summary report when the summary was generated using by a third-party service. %@ refers to the name of the service/app (e.g Firefox). */
 "Summarizer.HostedBrand.Label.v142" = "Résumé par %@";
 
@@ -27,19 +30,4 @@
 
 /* The label for the error button that allows the user to retry summarizing the page. */
 "Summarizer.RetryButton.Label.v142" = "Réessayer";
-
-/* The label for the allow button on the Terms of Service alert. */
-"Summarizer.ToS.Alert.AllowButton.Label.v142" = "Autoriser";
-
-/* The message for the Terms of Service alert that asks the user if they want to allow page summaries with Apple Intelligence. %@ is the app name (e.g Firefox). */
-"Summarizer.ToS.Alert.AppleMessage.Label.v142" = "%@ utilise Apple Intelligence pour résumer les pages.";
-
-/* The label for the cancel button on the Terms of Service alert for the summarizer. */
-"Summarizer.ToS.Alert.CancelButton.Label.v142" = "Annuler";
-
-/* The label for the learn more link button on the Terms of Service alert for the summarizer. */
-"Summarizer.ToS.Alert.LearnMoreButton.Label.v142" = "En savoir plus";
-
-/* The title for the Terms of Service alert that asks the user if they want to allow page summaries. */
-"Summarizer.ToS.Alert.Title.Label.v142" = "Autoriser les résumés de page ?";
 
