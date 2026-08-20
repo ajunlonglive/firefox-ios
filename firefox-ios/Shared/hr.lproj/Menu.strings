@@ -10,9 +10,6 @@
 /* Label for the button, displayed in the menu, downloads a pdf when pressed. */
 "Menu.DownloadPDF.Label.v129" = "Preuzmi PDF";
 
-/* Label for the edit bookmark button in the legacy menu. Pressing this button opens the bookmark editing screen for the current page's bookmark. Please keep the text as short as possible for this label. */
-"Menu.EditBookmark.Label.v135" = "Uredi";
-
 /* Label for the button, displayed in the menu, used to open the toolbar to search for text within the current page. */
 "Menu.FindInPageAction.Title" = "Pronađi na stranici";
 
@@ -50,7 +47,7 @@
 "Menu.SharePageAction.Title" = "Podijeli stranicu s …";
 
 /* Label for the button, displayed in the menu, used to request the desktop version of the current website. */
-"Menu.ViewDekstopSiteAction.Title" = "Zatraži desktop stranicu";
+"Menu.ViewDekstopSiteAction.Title" = "Zatraži desktop web-stranicu";
 
 /* Label for the button, displayed in the menu, used to request the mobile version of the current website. */
 "Menu.ViewMobileSiteAction.Title" = "Zatraži stranicu za mobitele";
