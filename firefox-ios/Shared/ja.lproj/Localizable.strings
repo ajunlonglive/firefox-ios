@@ -80,7 +80,7 @@
 "Back" = "戻る";
 
 /* Block pop-up windows setting */
-"Block Pop-up Windows" = "ポップアップをブロック";
+"Block Pop-up Windows" = "ポップアップをブロックする";
 
 /* The label for the Title field when editing a bookmark */
 "Bookmark.DetailFieldTitle.Label" = "タイトル";
@@ -893,7 +893,7 @@
 "Open Settings" = "環境設定を開く";
 
 /* Toggle tabs syncing setting */
-"Open Tabs" = "タブを開く";
+"Open Tabs" = "開いたタブ";
 
 /* The message displayed to a user when they try to open a URL that cannot be handled by Firefox, or any external app. */
 "OpenURL.Error.Message" = "アドレスが正しくないため、Firefox はこのページを開けません。";
@@ -1418,7 +1418,7 @@
 "Settings.NewTab.TopSectionNameFooter" = "新規タブを開いたときに読み込む内容を選択します";
 
 /* Label for the block images toggle displayed in the settings menu. Enabling this toggle will hide images on any webpage the user visits. */
-"Settings.NoImageModeBlockImages.Label.v99" = "画像をブロック";
+"Settings.NoImageModeBlockImages.Label.v99" = "画像をブロックする";
 
 /* Description displayed under the ”Offer to Open Copied Link” option. See https://bug1223660.bmoattachments.org/attachment.cgi?id=8898349 */
 "Settings.OfferClipboardBar.Status" = "Firefox 起動時";
@@ -1472,10 +1472,10 @@
 "Settings.ShowLinkPreviews.StatusV2" = "リンクを長押しした時";
 
 /* Title of setting to enable link previews when long-pressing links. */
-"Settings.ShowLinkPreviews.Title" = "リンク先のプレビューを表示";
+"Settings.ShowLinkPreviews.Title" = "リンク先のプレビューを表示する";
 
 /* Setting to show Logins & Passwords quick access in the application menu */
-"Settings.ShowLoginsInAppMenu.Title" = "アプリケーションメニューに表示";
+"Settings.ShowLoginsInAppMenu.Title" = "アプリメニューに表示する";
 
 /* The description of the open new tab siri shortcut */
 "Settings.Siri.OpenTabShortcut" = "新規タブを開く";
@@ -1622,7 +1622,7 @@
 "ShareSheet.SendToDevice.Title.v108" = "リンクを端末へ送信";
 
 /* Label for show search suggestions setting. */
-"Show Search Suggestions" = "検索語句の候補を表示";
+"Show Search Suggestions" = "検索語句の候補を表示する";
 
 /* Accessibility label for the tabs button in the (top) tab toolbar */
 "Show Tabs" = "タブを表示";
