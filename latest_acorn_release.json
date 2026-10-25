@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/FirefoxUX/acorn-icons/releases/240598973",
-    "assets_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/releases/240598973/assets",
-    "upload_url": "https://uploads.github.com/repos/FirefoxUX/acorn-icons/releases/240598973/assets{?name,label}",
-    "html_url": "https://github.com/FirefoxUX/acorn-icons/releases/tag/v1.49.1",
-    "id": 240598973,
+    "url": "https://api.github.com/repos/FirefoxUX/acorn-icons/releases/418705410",
+    "assets_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/releases/418705410/assets",
+    "upload_url": "https://uploads.github.com/repos/FirefoxUX/acorn-icons/releases/418705410/assets{?name,label}",
+    "html_url": "https://github.com/FirefoxUX/acorn-icons/releases/tag/v1.145.0",
+    "id": 418705410,
     "author": {
         "login": "cwzilla",
         "id": 87655586,
@@ -25,18 +25,18 @@
         "user_view_type": "public",
         "site_admin": false
     },
-    "node_id": "RE_kwDOI1CID84OVz-9",
-    "tag_name": "v1.49.1",
+    "node_id": "RE_kwDOI1CID84Y9PAC",
+    "tag_name": "v1.145.0",
     "target_commitish": "main",
-    "name": "v1.49.1",
+    "name": "v1.145.0",
     "draft": false,
     "immutable": false,
     "prerelease": false,
-    "created_at": "2025-08-18T13:05:38Z",
-    "updated_at": "2025-08-18T13:06:39Z",
-    "published_at": "2025-08-18T13:06:39Z",
+    "created_at": "2026-10-20T18:01:01Z",
+    "updated_at": "2026-10-20T18:01:38Z",
+    "published_at": "2026-10-20T18:01:38Z",
     "assets": [],
-    "tarball_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/tarball/v1.49.1",
-    "zipball_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/zipball/v1.49.1",
-    "body": "# [Changelog]\r\n### [1.49.1]\r\n### Changed\r\n\r\n- PDF\r\n  - globeSmall.pdf\r\n  - globeMedium.pdf\r\n  - globeLarge.pdf\r\n\r\n- SVG\r\n  - globe-16.svg\r\n  - globe-20.svg\r\n  - globe-24.svg\r\n\r\n- XML\r\n  - ic_globe_16.xml\r\n  - ic_globe_20.xml\r\n  - ic_globe_24.xml"
+    "tarball_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/tarball/v1.145.0",
+    "zipball_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/zipball/v1.145.0",
+    "body": "# [Changelog]\r\n### [v1.145.0]\r\n### Added\r\n#### Mobile \r\n\r\n- PDF\r\n  - arrowDownLeftCircleMedium.pdf\r\n  - arrowDownRightMeCircleMedium.pdf\r\n  - arrowUpRightCircleMedium.pdf\r\n\r\n- SVG\r\n  - arrow-down-left-circle-20.svg\r\n  - arrow-down-right-circle-20.svg\r\n  - arrow-up-right-circle-20.svg\r\n\r\n- XML\r\n  - ic_arrow_down_left_circle_20.xml\r\n  - ic_arrow_down_right_circle_20.xml\r\n  - ic_arrow_up_right_circle_20.xml"
 }
